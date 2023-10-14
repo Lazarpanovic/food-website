@@ -28,7 +28,6 @@ section nav{
 
 section nav .logo img{
     width: 100px;
-    cursor: pointer;
     margin: 7px 0;
 }
 
@@ -53,7 +52,6 @@ section nav .icon i{
     font-size: 18px;
     color: #000;
     margin: 0 5px;
-    cursor: pointer;
     transition: 0.3s;
 }
 
@@ -102,7 +100,6 @@ section .main_btn{
     left: 123px;
     bottom: 30px;
     width: 150px;
-    cursor: pointer;
     padding: 12px 25px;
 }
 
@@ -255,7 +252,6 @@ section .main_btn i{
     justify-content: center;
     line-height: 50px;
     color: #000;
-    cursor: pointer;
     text-shadow: 0 0 6px #000;
     transition: 0.2s;
 }
@@ -467,7 +463,6 @@ section .main_btn i{
     margin: 5px 1px;
     font-size: 12px;
     opacity: 0;
-    cursor: pointer;
     transition: 0.3s;
 }
 
@@ -628,7 +623,6 @@ section .main_btn i{
     object-fit: cover;
     object-position: center;
     border-radius: 50%;
-    cursor: pointer;
     box-shadow: 0 0 8px rgba(0,0,0,0.5);
     z-index: 2;
     transition: 0.4s;
@@ -654,7 +648,6 @@ section .main_btn i{
 
 .team .team_box .profile .info .team_icon i{
     margin: 10px 5px 5px 0;
-    cursor: pointer;
     transition: 0.3s;
 }
 
@@ -688,7 +681,6 @@ footer .footer_main .footer_tag p{
 
 footer .footer_main .footer_tag i{
     margin: 0 5px;
-    cursor: pointer;
 }
 
 footer .end{
